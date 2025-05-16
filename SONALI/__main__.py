@@ -41,7 +41,7 @@ async def init():
     await userbot.start()
     await RAUSHAN.start()
     await RAUSHAN.decorators()
-    LOGGER("SONALI").info("╔═════ஜ۩۞۩ஜ════╗\n  ✨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗟𝗣𝗛𝗔✨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("SONALI").info("╔═════ஜ۩۞۩ஜ════╗\n  ✨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗞𝗔𝗜𝗦𝗘𝗡✨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
     await app.stop()
     await userbot.stop()
